@@ -1,0 +1,8 @@
+
+prueba 0
+Prueba sin audio con pca -> .83
+Prueba con audio con pca -> .93
+
+prueba 50
+Prueba sin audio con pca -> .93
+Prueba con audio con pca -> .96

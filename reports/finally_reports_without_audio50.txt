@@ -1,0 +1,600 @@
+
+Ejecución 1:
+              precision    recall  f1-score   support
+
+ Not Focused       0.64      0.60      0.62        15
+     Focused       0.62      0.67      0.65        15
+
+    accuracy                           0.63        30
+   macro avg       0.63      0.63      0.63        30
+weighted avg       0.63      0.63      0.63        30
+
+==================================================
+
+Ejecución 2:
+              precision    recall  f1-score   support
+
+ Not Focused       0.67      0.13      0.22        15
+     Focused       0.52      0.93      0.67        15
+
+    accuracy                           0.53        30
+   macro avg       0.59      0.53      0.44        30
+weighted avg       0.59      0.53      0.44        30
+
+==================================================
+
+Ejecución 3:
+              precision    recall  f1-score   support
+
+ Not Focused       1.00      0.27      0.42        15
+     Focused       0.58      1.00      0.73        15
+
+    accuracy                           0.63        30
+   macro avg       0.79      0.63      0.58        30
+weighted avg       0.79      0.63      0.58        30
+
+==================================================
+
+Ejecución 4:
+              precision    recall  f1-score   support
+
+ Not Focused       0.86      0.80      0.83        15
+     Focused       0.81      0.87      0.84        15
+
+    accuracy                           0.83        30
+   macro avg       0.83      0.83      0.83        30
+weighted avg       0.83      0.83      0.83        30
+
+==================================================
+
+Ejecución 5:
+              precision    recall  f1-score   support
+
+ Not Focused       0.47      0.53      0.50        15
+     Focused       0.46      0.40      0.43        15
+
+    accuracy                           0.47        30
+   macro avg       0.47      0.47      0.46        30
+weighted avg       0.47      0.47      0.46        30
+
+==================================================
+
+Ejecución 6:
+              precision    recall  f1-score   support
+
+ Not Focused       0.50      0.87      0.63        15
+     Focused       0.50      0.13      0.21        15
+
+    accuracy                           0.50        30
+   macro avg       0.50      0.50      0.42        30
+weighted avg       0.50      0.50      0.42        30
+
+==================================================
+
+Ejecución 7:
+              precision    recall  f1-score   support
+
+ Not Focused       0.54      0.93      0.68        15
+     Focused       0.75      0.20      0.32        15
+
+    accuracy                           0.57        30
+   macro avg       0.64      0.57      0.50        30
+weighted avg       0.64      0.57      0.50        30
+
+==================================================
+
+Ejecución 8:
+              precision    recall  f1-score   support
+
+ Not Focused       0.82      0.60      0.69        15
+     Focused       0.68      0.87      0.76        15
+
+    accuracy                           0.73        30
+   macro avg       0.75      0.73      0.73        30
+weighted avg       0.75      0.73      0.73        30
+
+==================================================
+
+Ejecución 9:
+              precision    recall  f1-score   support
+
+ Not Focused       0.00      0.00      0.00        15
+     Focused       0.50      1.00      0.67        15
+
+    accuracy                           0.50        30
+   macro avg       0.25      0.50      0.33        30
+weighted avg       0.25      0.50      0.33        30
+
+==================================================
+
+Ejecución 10:
+              precision    recall  f1-score   support
+
+ Not Focused       0.88      0.93      0.90        15
+     Focused       0.93      0.87      0.90        15
+
+    accuracy                           0.90        30
+   macro avg       0.90      0.90      0.90        30
+weighted avg       0.90      0.90      0.90        30
+
+==================================================
+
+Ejecución 11:
+              precision    recall  f1-score   support
+
+ Not Focused       0.00      0.00      0.00        15
+     Focused       0.48      0.93      0.64        15
+
+    accuracy                           0.47        30
+   macro avg       0.24      0.47      0.32        30
+weighted avg       0.24      0.47      0.32        30
+
+==================================================
+
+Ejecución 12:
+              precision    recall  f1-score   support
+
+ Not Focused       1.00      0.13      0.24        15
+     Focused       0.54      1.00      0.70        15
+
+    accuracy                           0.57        30
+   macro avg       0.77      0.57      0.47        30
+weighted avg       0.77      0.57      0.47        30
+
+==================================================
+
+Ejecución 13:
+              precision    recall  f1-score   support
+
+ Not Focused       0.44      0.53      0.48        15
+     Focused       0.42      0.33      0.37        15
+
+    accuracy                           0.43        30
+   macro avg       0.43      0.43      0.43        30
+weighted avg       0.43      0.43      0.43        30
+
+==================================================
+
+Ejecución 14:
+              precision    recall  f1-score   support
+
+ Not Focused       0.50      0.40      0.44        15
+     Focused       0.50      0.60      0.55        15
+
+    accuracy                           0.50        30
+   macro avg       0.50      0.50      0.49        30
+weighted avg       0.50      0.50      0.49        30
+
+==================================================
+
+Ejecución 15:
+              precision    recall  f1-score   support
+
+ Not Focused       0.52      0.87      0.65        15
+     Focused       0.60      0.20      0.30        15
+
+    accuracy                           0.53        30
+   macro avg       0.56      0.53      0.47        30
+weighted avg       0.56      0.53      0.47        30
+
+==================================================
+
+Ejecución 16:
+              precision    recall  f1-score   support
+
+ Not Focused       0.79      1.00      0.88        15
+     Focused       1.00      0.73      0.85        15
+
+    accuracy                           0.87        30
+   macro avg       0.89      0.87      0.86        30
+weighted avg       0.89      0.87      0.86        30
+
+==================================================
+
+Ejecución 17:
+              precision    recall  f1-score   support
+
+ Not Focused       0.83      1.00      0.91        15
+     Focused       1.00      0.80      0.89        15
+
+    accuracy                           0.90        30
+   macro avg       0.92      0.90      0.90        30
+weighted avg       0.92      0.90      0.90        30
+
+==================================================
+
+Ejecución 18:
+              precision    recall  f1-score   support
+
+ Not Focused       0.57      0.53      0.55        15
+     Focused       0.56      0.60      0.58        15
+
+    accuracy                           0.57        30
+   macro avg       0.57      0.57      0.57        30
+weighted avg       0.57      0.57      0.57        30
+
+==================================================
+
+Ejecución 19:
+              precision    recall  f1-score   support
+
+ Not Focused       0.79      1.00      0.88        15
+     Focused       1.00      0.73      0.85        15
+
+    accuracy                           0.87        30
+   macro avg       0.89      0.87      0.86        30
+weighted avg       0.89      0.87      0.86        30
+
+==================================================
+
+Ejecución 20:
+              precision    recall  f1-score   support
+
+ Not Focused       0.81      0.87      0.84        15
+     Focused       0.86      0.80      0.83        15
+
+    accuracy                           0.83        30
+   macro avg       0.83      0.83      0.83        30
+weighted avg       0.83      0.83      0.83        30
+
+==================================================
+
+Ejecución 21:
+              precision    recall  f1-score   support
+
+ Not Focused       0.00      0.00      0.00        15
+     Focused       0.50      1.00      0.67        15
+
+    accuracy                           0.50        30
+   macro avg       0.25      0.50      0.33        30
+weighted avg       0.25      0.50      0.33        30
+
+==================================================
+
+Ejecución 22:
+              precision    recall  f1-score   support
+
+ Not Focused       0.79      1.00      0.88        15
+     Focused       1.00      0.73      0.85        15
+
+    accuracy                           0.87        30
+   macro avg       0.89      0.87      0.86        30
+weighted avg       0.89      0.87      0.86        30
+
+==================================================
+
+Ejecución 23:
+              precision    recall  f1-score   support
+
+ Not Focused       0.93      0.93      0.93        15
+     Focused       0.93      0.93      0.93        15
+
+    accuracy                           0.93        30
+   macro avg       0.93      0.93      0.93        30
+weighted avg       0.93      0.93      0.93        30
+
+==================================================
+
+Ejecución 24:
+              precision    recall  f1-score   support
+
+ Not Focused       0.71      1.00      0.83        15
+     Focused       1.00      0.60      0.75        15
+
+    accuracy                           0.80        30
+   macro avg       0.86      0.80      0.79        30
+weighted avg       0.86      0.80      0.79        30
+
+==================================================
+
+Ejecución 25:
+              precision    recall  f1-score   support
+
+ Not Focused       1.00      0.53      0.70        15
+     Focused       0.68      1.00      0.81        15
+
+    accuracy                           0.77        30
+   macro avg       0.84      0.77      0.75        30
+weighted avg       0.84      0.77      0.75        30
+
+==================================================
+
+Ejecución 26:
+              precision    recall  f1-score   support
+
+ Not Focused       0.54      0.87      0.67        15
+     Focused       0.67      0.27      0.38        15
+
+    accuracy                           0.57        30
+   macro avg       0.60      0.57      0.52        30
+weighted avg       0.60      0.57      0.52        30
+
+==================================================
+
+Ejecución 27:
+              precision    recall  f1-score   support
+
+ Not Focused       0.88      0.93      0.90        15
+     Focused       0.93      0.87      0.90        15
+
+    accuracy                           0.90        30
+   macro avg       0.90      0.90      0.90        30
+weighted avg       0.90      0.90      0.90        30
+
+==================================================
+
+Ejecución 28:
+              precision    recall  f1-score   support
+
+ Not Focused       0.50      1.00      0.67        15
+     Focused       0.00      0.00      0.00        15
+
+    accuracy                           0.50        30
+   macro avg       0.25      0.50      0.33        30
+weighted avg       0.25      0.50      0.33        30
+
+==================================================
+
+Ejecución 29:
+              precision    recall  f1-score   support
+
+ Not Focused       0.87      0.87      0.87        15
+     Focused       0.87      0.87      0.87        15
+
+    accuracy                           0.87        30
+   macro avg       0.87      0.87      0.87        30
+weighted avg       0.87      0.87      0.87        30
+
+==================================================
+
+Ejecución 30:
+              precision    recall  f1-score   support
+
+ Not Focused       0.76      0.87      0.81        15
+     Focused       0.85      0.73      0.79        15
+
+    accuracy                           0.80        30
+   macro avg       0.81      0.80      0.80        30
+weighted avg       0.81      0.80      0.80        30
+
+==================================================
+
+Ejecución 31:
+              precision    recall  f1-score   support
+
+ Not Focused       1.00      0.40      0.57        15
+     Focused       0.62      1.00      0.77        15
+
+    accuracy                           0.70        30
+   macro avg       0.81      0.70      0.67        30
+weighted avg       0.81      0.70      0.67        30
+
+==================================================
+
+Ejecución 32:
+              precision    recall  f1-score   support
+
+ Not Focused       0.56      0.33      0.42        15
+     Focused       0.52      0.73      0.61        15
+
+    accuracy                           0.53        30
+   macro avg       0.54      0.53      0.51        30
+weighted avg       0.54      0.53      0.51        30
+
+==================================================
+
+Ejecución 33:
+              precision    recall  f1-score   support
+
+ Not Focused       0.83      1.00      0.91        15
+     Focused       1.00      0.80      0.89        15
+
+    accuracy                           0.90        30
+   macro avg       0.92      0.90      0.90        30
+weighted avg       0.92      0.90      0.90        30
+
+==================================================
+
+Ejecución 34:
+              precision    recall  f1-score   support
+
+ Not Focused       0.71      0.67      0.69        15
+     Focused       0.69      0.73      0.71        15
+
+    accuracy                           0.70        30
+   macro avg       0.70      0.70      0.70        30
+weighted avg       0.70      0.70      0.70        30
+
+==================================================
+
+Ejecución 35:
+              precision    recall  f1-score   support
+
+ Not Focused       0.62      0.33      0.43        15
+     Focused       0.55      0.80      0.65        15
+
+    accuracy                           0.57        30
+   macro avg       0.59      0.57      0.54        30
+weighted avg       0.59      0.57      0.54        30
+
+==================================================
+
+Ejecución 36:
+              precision    recall  f1-score   support
+
+ Not Focused       0.92      0.73      0.81        15
+     Focused       0.78      0.93      0.85        15
+
+    accuracy                           0.83        30
+   macro avg       0.85      0.83      0.83        30
+weighted avg       0.85      0.83      0.83        30
+
+==================================================
+
+Ejecución 37:
+              precision    recall  f1-score   support
+
+ Not Focused       0.65      0.87      0.74        15
+     Focused       0.80      0.53      0.64        15
+
+    accuracy                           0.70        30
+   macro avg       0.73      0.70      0.69        30
+weighted avg       0.72      0.70      0.69        30
+
+==================================================
+
+Ejecución 38:
+              precision    recall  f1-score   support
+
+ Not Focused       0.81      0.87      0.84        15
+     Focused       0.86      0.80      0.83        15
+
+    accuracy                           0.83        30
+   macro avg       0.83      0.83      0.83        30
+weighted avg       0.83      0.83      0.83        30
+
+==================================================
+
+Ejecución 39:
+              precision    recall  f1-score   support
+
+ Not Focused       0.68      1.00      0.81        15
+     Focused       1.00      0.53      0.70        15
+
+    accuracy                           0.77        30
+   macro avg       0.84      0.77      0.75        30
+weighted avg       0.84      0.77      0.75        30
+
+==================================================
+
+Ejecución 40:
+              precision    recall  f1-score   support
+
+ Not Focused       0.83      0.67      0.74        15
+     Focused       0.72      0.87      0.79        15
+
+    accuracy                           0.77        30
+   macro avg       0.78      0.77      0.76        30
+weighted avg       0.78      0.77      0.76        30
+
+==================================================
+
+Ejecución 41:
+              precision    recall  f1-score   support
+
+ Not Focused       0.58      0.93      0.72        15
+     Focused       0.83      0.33      0.48        15
+
+    accuracy                           0.63        30
+   macro avg       0.71      0.63      0.60        30
+weighted avg       0.71      0.63      0.60        30
+
+==================================================
+
+Ejecución 42:
+              precision    recall  f1-score   support
+
+ Not Focused       0.67      0.27      0.38        15
+     Focused       0.54      0.87      0.67        15
+
+    accuracy                           0.57        30
+   macro avg       0.60      0.57      0.52        30
+weighted avg       0.60      0.57      0.52        30
+
+==================================================
+
+Ejecución 43:
+              precision    recall  f1-score   support
+
+ Not Focused       0.87      0.87      0.87        15
+     Focused       0.87      0.87      0.87        15
+
+    accuracy                           0.87        30
+   macro avg       0.87      0.87      0.87        30
+weighted avg       0.87      0.87      0.87        30
+
+==================================================
+
+Ejecución 44:
+              precision    recall  f1-score   support
+
+ Not Focused       0.75      0.20      0.32        15
+     Focused       0.54      0.93      0.68        15
+
+    accuracy                           0.57        30
+   macro avg       0.64      0.57      0.50        30
+weighted avg       0.64      0.57      0.50        30
+
+==================================================
+
+Ejecución 45:
+              precision    recall  f1-score   support
+
+ Not Focused       0.78      0.93      0.85        15
+     Focused       0.92      0.73      0.81        15
+
+    accuracy                           0.83        30
+   macro avg       0.85      0.83      0.83        30
+weighted avg       0.85      0.83      0.83        30
+
+==================================================
+
+Ejecución 46:
+              precision    recall  f1-score   support
+
+ Not Focused       0.70      0.47      0.56        15
+     Focused       0.60      0.80      0.69        15
+
+    accuracy                           0.63        30
+   macro avg       0.65      0.63      0.62        30
+weighted avg       0.65      0.63      0.62        30
+
+==================================================
+
+Ejecución 47:
+              precision    recall  f1-score   support
+
+ Not Focused       0.57      0.53      0.55        15
+     Focused       0.56      0.60      0.58        15
+
+    accuracy                           0.57        30
+   macro avg       0.57      0.57      0.57        30
+weighted avg       0.57      0.57      0.57        30
+
+==================================================
+
+Ejecución 48:
+              precision    recall  f1-score   support
+
+ Not Focused       0.55      0.80      0.65        15
+     Focused       0.62      0.33      0.43        15
+
+    accuracy                           0.57        30
+   macro avg       0.59      0.57      0.54        30
+weighted avg       0.59      0.57      0.54        30
+
+==================================================
+
+Ejecución 49:
+              precision    recall  f1-score   support
+
+ Not Focused       0.93      0.87      0.90        15
+     Focused       0.88      0.93      0.90        15
+
+    accuracy                           0.90        30
+   macro avg       0.90      0.90      0.90        30
+weighted avg       0.90      0.90      0.90        30
+
+==================================================
+
+Ejecución 50:
+              precision    recall  f1-score   support
+
+ Not Focused       0.75      0.40      0.52        15
+     Focused       0.59      0.87      0.70        15
+
+    accuracy                           0.63        30
+   macro avg       0.67      0.63      0.61        30
+weighted avg       0.67      0.63      0.61        30
+
+==================================================
